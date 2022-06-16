@@ -10,6 +10,12 @@ Use this area to play with the editor and get to grips with some of the content 
 
 Hahaha!!! 222! 333!!!!! fra gitbook.
 
+![](.gitbook/assets/image.png)
+
+
+
+Prøver dette også.
+
 ## Moving on
 
 All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
