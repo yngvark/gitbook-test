@@ -30,7 +30,13 @@ echo På deg
 * [ ] check check&#x20;
 * [ ] check check
 * [ ] check
-*
+* [ ] check
+
+| Feature | Vår løsning | Annen løsning |
+| ------- | ----------- | ------------- |
+| Pewpew  | ✅           | ❌             |
+| Adsfds  | ❌           | ❌             |
+| ...     | ✅           | ✅             |
 
 ## Moving on
 
