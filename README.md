@@ -10,6 +10,10 @@ Use this area to play with the editor and get to grips with some of the content 
 
 Hahaha!!! 222! 333!!!!! fra gitbook.
 
+Hei hei hei!!!!
+
+{% embed url="https://www.youtube.com/watch?v=5khwmyPItxE" %}
+
 ![](.gitbook/assets/image.png)
 
 Prøver dette også.
