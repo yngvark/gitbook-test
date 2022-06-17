@@ -12,9 +12,13 @@ Hahaha!!! 222! 333!!!!! fra gitbook.
 
 Hei hei hei!!!!
 
+
+
 {% embed url="https://www.youtube.com/watch?v=5khwmyPItxE" %}
 
 ![](.gitbook/assets/image.png)
+
+> Dette er en kjempekul sitat&#x20;
 
 Prøver dette også.
 
@@ -22,6 +26,11 @@ Prøver dette også.
 echo Hei
 echo På deg    
 ```
+
+* [ ] check check&#x20;
+* [ ] check check
+* [ ] check
+*
 
 ## Moving on
 
